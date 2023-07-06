@@ -40,8 +40,6 @@ To run the code in `knn_mnist.py`, ensure that you have installed the required d
 Feel free to modify the code to experiment with different parameters or incorporate additional functionality.
 
 ## Future Work
-This project is an ongoing exploration of different classification methods on the MNIST dataset. In the future, more classification algorithms will be added, such as Support Vector Machines (SVM), Random Forests, and Artificial Neural Networks (ANN). Each method will be implemented in separate files and documented in their respective READMEs.
-
-Stay tuned for updates and further improvements to the project!
+This project is an ongoing exploration of different classification methods on the MNIST dataset. In the future, more classification algorithms will be added, such as Support Vector Machines (SVM), Random Forests, and Artificial Neural Networks (ANN).
 
 
